@@ -1,0 +1,18 @@
+{
+	"countries": [
+		{
+		"name": "Brazil",
+		"code": "BR",
+		"capital": "Brasília",
+		"currency": "Real",
+		"fact": "The language of Brazil is portuguese"
+		},
+                {
+		"name": "United States of America",
+		"code": "USA",
+		"capital": "Washington, D.C.",
+		"currency": "Dolar",
+		"fact": "The language of United States of America is english"
+		}
+	]
+}
